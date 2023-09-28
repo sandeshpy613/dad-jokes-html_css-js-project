@@ -2,6 +2,8 @@
 
 ![image](https://github.com/sandeshpy613/dad-jokes-html_css-js-project/assets/109367533/26f80f6a-1b96-4b8e-b1e6-d390103105ff)
 
+<img width="960" alt="image" src="https://github.com/sandeshpy613/dad-jokes-html_css-js-project/assets/109367533/a60bf767-584d-4eab-b5a3-a7e9aebd2604">
+
 # Dad Jokes Project
 
 This is a simple web application that displays random dad jokes to bring a smile to your face. It's built using HTML, CSS, and JavaScript.
